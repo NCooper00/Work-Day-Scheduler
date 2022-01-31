@@ -28,7 +28,9 @@ Type in any task that you have for any time between 9am and 5pm then click the s
                         
 ## Screenshots and Link
                         
+![image](https://user-images.githubusercontent.com/92492572/151891884-c52aeaa6-f086-4d66-b872-e993e1958a32.png)
 
+Link to application: https://ncooper00.github.io/Work-Day-Scheduler/
                         
 ## Features
                         
